@@ -77,7 +77,8 @@ Fermilab Associate Scientist
   </div>
 </div>
 </div>
-Research
+
+## Research
 
 <div class="cv-timeline">
 
@@ -192,7 +193,7 @@ __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*ln
 - Maximilian Hoverath, Bachelorarbeit in Physik, Physikalisches Institut of University of Bonn (2022)
 - Mentor
 
-Select Publications and Presentations
+## Select Publications and Presentations
 
 Full INSPIRE-HEP list is available <u>online</u>.
 
@@ -631,152 +632,4 @@ using the same structure. -->
 
 </div>
 
-### Presentations
-`2026`
-__High Power Targetry Workshop 2026__
-- Contributed Talk
-- Title: An Evolving Framework for the Mu2e Production Target
-
-__Engineering Advisory Council: Tech Talk Series__
-- Invited Talk
-- Title: Mu2e Beam Intensity Monitor
-
-__NBI/RaDIATE 2026__
-- Contributed Talk
-- Title: An Evolving Framework for the Mu2e Production Target
-
-__Charged Lepton Flavor Violation 2026__
-- Invited Talk
-- Title: Fermilab Accelerator Complex Upgrades and Charged Lepton Flavor Violation
-
-  
-`2025`
-__The LPC’s Colliders of Tomorrow__
-- Invited Seminar
-- Title: Next-Generation Accelerator and Beam Instrumentation with the modified Askaryan Calorimeter Experiment (mACE)
-  
-__Muon4Future 2025__
-- Invited Talk
-- Title: High-Power targetry for production of high intensity muon beams at current and next generation facilities
-  
-`2024`
-__NuFact 2024__
-- Title: High-Power Targetry for Muon Production
-- Proceedings available at [[https://doi.org/10.48550/arXiv.2501.1055]](https://doi.org/10.48550/arXiv.2501.1055).
-
-__Coordinating Panel for Advanced Detectors Workshop (CPAD 2024)__
-- Title: Scintillating quantum dots for ultrafast charged-particle detection
-  
-__International Muon Collider Collaboration: Demonstrator Workshop__
-- Invited Talk
-- Title: Muon Production at Mu2e
-  
-`2023`
-__Open LHCb Workshop on exclusive b -> c decays__
-- Invited talk
-- Title: Measurements of LFU in B -> D(*)lnu at B-Factories
-
-__Workshop on a Future Muon Program At Fermilab__
-- Invited talk
-- Title: The Mu2e target
-
-__Lake Louise 2023 Winter Institute__
-- Invited talk
-- Title: The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation
-
-__Discussion of shared targetry needs between MuCol (muon collider) and Mu2e__
-- Invited talk
-- Title: Mu2e target design
-
-`2022`
-__Vienna Conference on Instrumentation__
-- Title: The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation
-- Proceedings available at [[doi.org/10.1016/j.nima.2022.167589]](https://doi.org/10.1016/j.nima.2022.167589)
-
-__New Perspectives__
-- Invited talk
-- Title: The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation
-
-`2021`
-__CPAD Instrumentation Frontier Workshop 2021__
-- Invited talk: Blue Skies presentation
-- Title: Particle tracking at light speed with quantum dots
-
-__CPAD Instrumentation Frontier Workshop 2021__
-- Title: Quantum dot based scintillators for charged particle detection
-
-__2021 Meeting of the Division of Particles and Fields of the American Physical Society (DPF21)__
-- Title: Quantum dot based scintillators for charged particle detection
-
-`2018`
-__APS April Meeting__
-- Title: First application of a novel directional neutron detector to background measurements at SuperKEKB
-
-`2017`
-__APS Division of Particles and Fields__
-- Title: Directional measurements of fast neutron backgrounds at SuperKEKB
-
-`2013`
-__DHS Domestic Nuclear Detection Office (DNDO) Academic Research Initiative
-(ARI) Grantees’ Conference__
-- Title: Performance Studies of a Prototype Directional Neutron Detector Using Cosmic Rays
-- Awarded "Best Student Presentation”
-
-## Other professional activities
-`2021`
-Reviewer: Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
-
-### Workshops
-`2019`
-Fermlab C++ Workshop [[<u>OOPL:Fermilab</u>]](https://www.oopl.com/fnal/index.html)
-
-`2017`
-Computational and Data Science School for High Energy Physics (CoDaS-HEP) [ [codas-hep.org] ](http://codas-hep.org)
-- [[<u>CoDaS-HEP Agenda</u>]](https://indico.cern.ch/event/625333/timetable/)
-  
-
-<!-- ### Footer
-Last updated: May 2023
-Extra stuff:
-### Specialties
-High-Power Targetry at Mu2e
-<br /> Rare interactions involving muons and quarks
-<br /> Advanced detectors and instrumentation
-<br /> Beam instrumentation
-<br /> Accelerator commissioning
-
-### Research interests
-
-High-Power Targetry
-<br /> Novel instrumentation
-<br /> Advanced tracking detectors
-<br /> Physics at the Rare & Precision Frontier
-
-
-## Technical Skills
-
-Mu2e [<u>Offline</u>](https://github.com/Mu2e/Offline) Analysis Software Framework (C++, art, Geant4, ROOT)
-<br /> Belle II Analysis Software Framework, [<u>basf2</u>](https://github.com/belle2/basf2) (C++, python, EvtGen)
-<br /> Detector research and development
-<br /> Python/Scipy
-<br /> C++
-<br /> [<u>ROOT</u>](https://root.cern.ch)
-<br /> AI / Machine Learning
-
-__Design and Performance Evaluation of InAs Quantum Dot Scintillation Detector Properties with Monolithically Integrated
-Photodiode__
-- T. Mahajan, A. Minns, V. Tokranov, P. Murat, M. T. Hedges, and S. Oktyabrksy
-- IEEE Sorma Proceedings
-
-`2016`
-__Readout technologies for directional WIMP Dark Matter detection__
-- J.B.R. Battat, I.G. Irastorza, A. Aleksandrov, T. Asada, E. Baracchini, J. Billard, G. Bosson, O. Bourrion, J. Bouvier, A. Buonaura, K. Burdge, S. Cebrián, P. Colas, L. Consiglio, T. Dafni, N. D’Ambrosio, C. Deaconu, G. De Lellis, T. Descombes, A. Di Crescenzo, N. Di Marco, G. Druitt, R. Eggleston, E. Ferrer-Ribas, T. Fusayasu, J. Galán, G. Galati, J.A. García, J.G. Garza, V. Gentile, M. Garcia-Sciveres, Y. Giomataris, N. Guerrero, O. Guillaudin, A.M. Guler, J. Harton, T. Hashimoto, *M.T. Hedges*, F.J. Iguaz, T. Ikeda, I. Jaegle, J.A. Kadyk, T. Katsuragawa, S. Komura, H. Kubo, K. Kuge, J. Lamblin, A. Lauria, E.R. Lee, P. Lewis, M. Leyton, D. Loomba, J.P. Lopez, G. Luzón, F. Mayet, H. Mirallas, K. Miuchi, T. Mizumoto, Y. Mizumura, P. Monacelli, J. Monroe, M.C. Montesi, T. Naka, K. Nakamura, H. Nishimura, A. Ochi, T. Papevangelou, J.D. Parker, N.S. Phan, F. Pupilli, J.P. Richer, Q. Riffard, G. Rosa, D. Santos, T. Sawano, H. Sekiya, I.S. Seong, D.P. Snowden-Ifft, N.J.C. Spooner, A. Sugiyama, R. Taishaku, A. Takada, A. Takeda, M. Tanaka, T. Tanimori, T.N. Thorpe, V. Tioukov, H. Tomita, A. Umemoto, S.E. Vahsen, Y. Yamaguchi, M. Yoshimoto, E. Zayas
-- [[10.1016/j.physrep.2016.10.001]](https://doi.org/10.1016/j.physrep.2016.10.001)
-
-`2013`
-__Charge-Focusing Readout of Time Projection Chambers__
-- S. J. Ross, *M. T. Hedges*, I. Jaegle, M. D. Rosen, I. S. Seong, T. N. Thorpe,
-  S. E. Vahsen, J. Yamaoka
-- [[10.1109/NSSMIC.2012.6551412]](https://doi.org/10.1109/NSSMIC.2012.6551412)
--->
 
