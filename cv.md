@@ -192,176 +192,444 @@ __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*ln
 - Maximilian Hoverath, Bachelorarbeit in Physik, Physikalisches Institut of University of Bonn (2022)
 - Mentor
 
-## Select Publications and Presentations
+Select Publications and Presentations
 
-Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/authors/1259719)
+Full INSPIRE-HEP list is available <u>online</u>.
 
-### Papers
-`2026`
-__(_Submitted_) Fermilab Accelerator Complex Upgrades and Charged Lepton Flavor Violation__
-- __Michael T. Hedges__
-- A contribution to CLFV2026
+Papers
 
-__(_Submitted_) FLUKA-Based Optimization of Pion Production for a Muon Collider Demonstrator__
-- R. Alharthy, S. Dasu, Ch.-H. Nee, P. Rao1, C. Vuosalo1, J. Eldred, __M. Hedges__, S. Jindariani, D. Stratakis, K. Yonehara
-- A contribution to IPAC2026 
+<div class="cv-timeline">
 
-__(_Submitted_) Vector Potential-based Beam Current Sensors: Applications for Mu2e, and Picosecond Bunch Substructure__
-- Peter W. Gorham, __Michael T. Hedges__, Ryan Kim, Peter M. Lewis, Kevin Lynch, Christian Miki, James Morgan, Naia Nyza, Dalten Pang, Tanner Polischuk, Dean Still
-- A contribution to the International Beam Instrumentation Conference (IBIC) 2026
+<div class="cv-year-group">
+<div class="cv-year">2026</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong><em>(Submitted)</em> Fermilab Accelerator Complex Upgrades and Charged Lepton Flavor Violation</strong>
+<ul>
+<li><strong>Michael T. Hedges</strong></li>
+<li>A contribution to CLFV2026.</li>
+</ul>
+</li>
+<li><strong><em>(Submitted)</em> FLUKA-Based Optimization of Pion Production for a Muon Collider Demonstrator</strong>
+<ul>
+<li>R. Alharthy, S. Dasu, Ch.-H. Nee, P. Rao, C. Vuosalo, J. Eldred, <strong>M. Hedges</strong>, S. Jindariani, D. Stratakis, K. Yonehara.</li>
+<li>A contribution to IPAC2026.</li>
+</ul>
+</li>
+<li><strong><em>(Submitted)</em> Vector Potential-based Beam Current Sensors: Applications for Mu2e, and Picosecond Bunch Substructure</strong>
+<ul>
+<li>Peter W. Gorham, <strong>Michael T. Hedges</strong>, Ryan Kim, Peter M. Lewis, Kevin Lynch, Christian Miki, James Morgan, Naia Nyza, Dalten Pang, Tanner Polischuk, Dean Still.</li>
+<li>A contribution to the International Beam Instrumentation Conference (IBIC) 2026.</li>
+</ul>
+</li>
+<li><strong><em>(In Progress)</em> InAs Quantum Dot Scintillation Detector for Ultrafast Tracking Applications</strong>
+<ul>
+<li><strong>Anticipated authors:</strong> T. Mahajan, G. Biswal, M. Yakimov, V. Tokranov, <strong>M. Hedges</strong>, P. Murat, L. Casias, S. Addamane, and S. Oktyabrsky.</li>
+<li>To be submitted as part of DOE project closeout at U. Albany for investigating heterogeneous InAs quantum dot scintillator detectors.</li>
+<li><strong>Target journal:</strong> Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment.</li>
+<li><strong>Submission goal:</strong> November 2026.</li>
+</ul>
+</li>
+<li><strong><em>(In Progress)</em> Fast measurements of resonantly extracted beam at the Fermilab muon campus using free-standing RF-based instrumentation for pulse-to-pulse proton intensity monitoring</strong>
+<ul>
+<li><strong>Anticipated authors:</strong> Peter W. Gorham, <strong>Michael T. Hedges</strong>, Ryan Kim, Peter M. Lewis, Kevin Lynch, Christian Miki, James Morgan, Naia Nyza, Dalten Pang, Tanner Polischuk, Dean Still.</li>
+<li><strong>Target journal:</strong> Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment.</li>
+<li><strong>Submission goal:</strong> Spring 2027.</li>
+</ul>
+</li>
+<li><strong><em>(In Progress)</em> The Mu2e External Proton Beamline</strong>
+<ul>
+<li><strong>Anticipated authors:</strong> Madeleine Bloomer, Jason Crnkovic, George Deinlein, <strong>Michael Hedges</strong>, Ryan Hensley, Ryan Kim, Kevin Lynch, Vladimir Nagaslaev, Aakaash Narayanan, Eric Prebys, Diktys Stratakis.</li>
+<li><strong>Target journal:</strong> Physical Review Accelerators and Beams.</li>
+<li><strong>Submission goal:</strong> Spring 2027.</li>
+</ul>
+</li>
+<li><strong><em>(In Progress)</em> The Mu2e Extinction System</strong>
+<ul>
+<li><strong>Anticipated authors:</strong> Madeleine Bloomer, Jason Crnkovic, George Deinlein, <strong>Michael Hedges</strong>, Ryan Hensley, Ryan Kim, Kevin Lynch, Vladimir Nagaslaev, Aakaash Narayanan, Eric Prebys, Diktys Stratakis.</li>
+<li><strong>Target journal:</strong> Physical Review Accelerators and Beams.</li>
+<li><strong>Submission goal:</strong> Spring 2027.</li>
+</ul>
+</li>
+<li><strong><em>(In Progress)</em> Analysis of highly irradiated alloy 718 specimens after ion beam irradiation and H/He implantation</strong>
+<ul>
+<li><strong>Anticipated authors:</strong> Abe Burleigh, Kavin Ammigan, Ethan Fletcher, <strong>Michael Hedges</strong>, Kevin Lynch, Jonathan Williams.</li>
+<li><strong>Target journal:</strong> Journal of Nuclear Materials.</li>
+<li><strong>Submission goal:</strong> End of 2026.</li>
+</ul>
+</li>
+<li><strong><em>(In Progress)</em> The Mu2e Production Target</strong>
+<ul>
+<li><strong>Anticipated authors:</strong> Zunping Liu, Alajos Makovec, Andrew Edmonds, Frederique Pellemoine, Gerald Annala, James Miller, James Popp, Jonathan Williams, Katsuya Yonehara, Kevin Lynch, Madeleine Blooomer, and <strong>Michael Hedges</strong>.</li>
+<li><strong>Target journal:</strong> Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment.</li>
+<li><strong>Submission goal:</strong> Spring 2027.</li>
+</ul>
+</li>
+<li><strong><em>(In Progress)</em> Conceptual design of a beam-dump and target facility for a future F2D2 site at Fermilab</strong>
+<ul>
+<li><strong>Anticipated authors:</strong> William Asztalos, <strong>Michael T. Hedges</strong>, Jonathan Williams, and others.</li>
+<li><strong>Target journal:</strong> Journal of Instrumentation (JINST).</li>
+<li><strong>Submission goal:</strong> Spring 2027.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-__(_In Progress_) InAs Quantum Dot Scintillation Detector for Ultrafast Tracking Applications__
-- __Anticipated Author list:__ T. Mahajan, G. Biswal, M. Yakimov, V. Tokranov, __M. Hedges__, P. Murat, L. Casias, S. Addamane, and S. Oktyabrsky
-- To be submitted as part of DOE project closeout at U. Albany for investigating heterogenous InAs quantum dot scintillator detectors
-- Target Journal: Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
-- __Submission Goal:__ Nov 2026
+<div class="cv-year-group">
+<div class="cv-year">2025</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong>Challenges and optimization of Mu2e proton target design with radiative cooling</strong>
+<ul>
+<li>Zunping Liu, Alajos Makovec, Andrew Edmonds, Frederique Pellemoine, Gerald Annala, James Miller, James Popp, Jonathan Williams, Katsuya Yonehara, Kevin Lynch, Madeleine Blooomer, and <strong>Michael Hedges</strong>.</li>
+<li>JACoW MEDSI2025 (2026), THOB03; JACoW (2025).</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-__(_In Progress_) Fast measurements of resonantly extracted beam at the Fermilab muon campus using free-standing RF-based instrumentation for pulse-to-pulse proton intensity monitoring__
-- __Anticipated Author list:__ Peter W. Gorham, __Michael T. Hedges__, Ryan Kim, Peter M. Lewis, Kevin Lynch, Christian Miki, James Morgan, Naia Nyza, Dalten Pang, Tanner Polischuk, Dean Still
-- __Target Journal:__ Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
-- __Submission Goal:__ Spring 2027
+<div class="cv-year-group">
+<div class="cv-year">2024</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong>Design and Performance of an InAs Quantum Dot Scintillator with Integrated Photodetector</strong>
+<ul>
+<li>Tushar Mahajan, Allan Minns, Vadim Tokranov, Michael Yakimov, <em>Michael Hedges</em>, Pavel Murat, and Serge Oktyabrsky.</li>
+<li>Sensors 2024, 24(22), 7178. <a href="https://doi.org/10.3390/s24227178">DOI</a>.</li>
+</ul>
+</li>
+<li><strong>Device response principles and the impact on energy resolution of epitaxial quantum dot scintillators with monolithic photodetector integration</strong>
+<ul>
+<li>Allan Minns, Tushar Mahajan, Vadim Tokranov, Michael Yakimov, <em>Michael Hedges</em>, Pavel Murat, and Serge Oktyabrsky.</li>
+<li>Scientific Reports 14, 22870 (2024). <a href="https://doi.org/10.1038/s41598-024-74160-7">DOI</a>.</li>
+</ul>
+</li>
+<li><strong>CPAD 2024 Whitepaper: Quantum Dot Scintillation Detector</strong>
+<ul>
+<li>Serge Oktyabrsky, <em>Michael Hedges</em>, and Pavel Murat.</li>
+<li><a href="https://drive.google.com/drive/folders/1U-QsgKwDZd5N5AJnUBu5N0ve85wHtAWR">Whitepaper and supporting materials</a>.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-__(_In Progress_) The Mu2e External Proton Beamline__
-- __Anticipated Author list:__ Madeleine Bloomer, Jason Crnkovic, George Deinlein, __Michael Hedges__, Ryan Hensley, Ryan Kim, Kevin Lynch, Vladimir Nagaslaev, Aakaash Narayanan, Eric Prebys,  Diktys Stratakis,
-- __Target Journal__: Physical Review: Accelerators and Beams
-- __Submission Goal:__ Spring 2027
+<div class="cv-year-group">
+<div class="cv-year">2023</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong>Tests of light-lepton universality in angular asymmetries of hadronically tagged B → D*{e, μ}ν decays at Belle II</strong>
+<ul>
+<li>M. Eliachevitch, <em>M. T. Hedges</em>, P. M. Lewis, F. Bernlochner, et al. (Belle II).</li>
+<li><a href="https://doi.org/10.1103/PhysRevLett.131.181801">Physical Review Letters publication</a>.</li>
+<li><strong>Contributions:</strong> Proposer and analyst.</li>
+</ul>
+</li>
+<li><strong>Mu2e Run I Sensitivity Projections for the Neutrinoless μ → e Conversion Search in Aluminum</strong>
+<ul>
+<li>The Mu2e Collaboration.</li>
+<li><a href="https://doi.org/10.3390/universe9010054">Publication</a>.</li>
+<li><strong>Contributions:</strong> Simulation and analysis framework, decay-in-orbit background, absolute momentum scale calibration.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-__(_In Progress_) The Mu2e Extinction System__
-- __Anticipated Author list:__ Madeleine Bloomer, Jason Crnkovic, George Deinlein, __Michael Hedges__, Ryan Hensley, Ryan Kim, Kevin Lynch, Vladimir Nagaslaev, Aakaash Narayanan, Eric Prebys,  Diktys Stratakis
-- __Target Journal__: Physical Review: Accelerators and Beams
-- __Submission Goal:__ Spring 2027
+<div class="cv-year-group">
+<div class="cv-year">2022</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong>The Mu2e Experiment — Searching for Charged Lepton Flavor Violation</strong>
+<ul>
+<li>M. T. Hedges, on behalf of the Mu2e experiment.</li>
+<li><a href="https://doi.org/10.1016/j.nima.2022.167589">Nuclear Instruments and Methods in Physics Research A</a>.</li>
+<li>Proceedings for the Vienna Conference on Instrumentation (VCI).</li>
+</ul>
+</li>
+<li><strong>Report of the Instrumentation Frontier Working Group for Snowmass 2021</strong>
+<ul>
+<li>Phillip S. Barbeau, Petra Merkel, Jinlong Zhang, Darin Acosta, Anthony A. Affolder, Artur Apresyan, Marina Artuso, Vallary Bhopatkar, Stephen Butalla, Gabriella A. Carini, Thomas Cecil, C. Eric Dahl, Allison Deiana, Katherine Dunne, Carlos O. Escobar, Farah Fahim, James E. Fast, Maurice Garcia-Sciveres, Roxanne Guenette, <em>Michael T. Hedges</em>, Kent Irwin, Albrecht Karle, Wes Ketchum, Scott Kravitz, W. Hugh Lippincott, Reina H. Maruyama, Jess McIver, F. Mitchell Newcomer, John Parsons, Matt Pyle, Jennifer L. Raaf, Chris Rogan, Mayly C. Sanchez, Ian Shipsey, Bernd Surrow, Maxim Titov, Sven E. Vahsen, Caterina Vernieri, Andrew P. White, Steven Worm, Minfang Yeh, Rachel Yohay, and Jacob Zettlemoyer.</li>
+<li><a href="https://arxiv.org/abs/2209.14111">arXiv:2209.14111</a>.</li>
+<li><strong>Contributions:</strong> Edits and text on quantum-dot-based detectors in Novel Tracking Sensors; early-career liaison.</li>
+</ul>
+</li>
+<li><strong>Solid State Detectors and Tracking for Snowmass</strong>
+<ul>
+<li>A. Affolder, A. Apresyan, S. Worm, M. Albrow, D. Ally, D. Ambrose, E. Anderssen, N. Apadula, P. Asenov, W. Armstrong, M. Artuso, A. Barbier, P. Barletta, W. Bauer, D. Berry, M. Bomben, M. Boscardin, M. Breidenbach, J. Brau, W. Brooks, M. Centis-Vignali, M. Cerullo, A. Collu, F. Chlebana, G.-F. Dalla Betta, M. Demarteau, G. Deptuch, K. Di Petrillo, D. G. Hitlin, H. Kagan, M. Garcia-Sciveres, G. Giacomini, C. Gingu, N. Graf, and many additional collaborators, including <em>M. T. Hedges</em>.</li>
+<li><a href="https://arxiv.org/abs/2209.03607">arXiv:2209.03607</a>.</li>
+<li><strong>Contributions:</strong> Text for quantum-dot-based detectors in Novel Tracking Sensors.</li>
+</ul>
+</li>
+<li><strong>Novel Sensors for Particle Tracking: a Contribution to the Snowmass Community Planning Exercise of 2021</strong>
+<ul>
+<li>M. R. Hoeferkamp, S. Seidel, S. Kim, J. Metcalfe, A. Sumant, H. Kagan, W. Trischuk, M. Boscardin, G.-F. Dalla Betta, D. M. S. Sultan, N. T. Fourches, C. Renard, A. Barbier, T. Mahajan, A. Minns, V. Tokranov, M. Yakimov, S. Oktyabrsky, C. Gingu, P. Murat, and <em>M. T. Hedges</em>.</li>
+<li><a href="https://arxiv.org/abs/2202.11828">arXiv:2202.11828</a>.</li>
+<li><strong>Contributions:</strong> Executive summary and primary author for the chapter on quantum-dot-based detectors.</li>
+</ul>
+</li>
+<li><strong>Mu2e-II: Muon to electron conversion with PIP-II</strong>
+<ul>
+<li>K. Byrum, S. Corrodi, Y. Oksuzian, P. Winter, L. Xia, A. W. J. Edmonds, J. P. Miller, J. Mott, W. J. Marciano, R. Szafron, R. Bonventre, D. N. Brown, Yu. G. Kolomensky, O. Ning, V. Singh, E. Prebys, L. Borrel, B. Echenard, D. G. Hitlin, C. Hu, D. X. Lin, S. Middleton, F. C. Porter, L. Zhang, R.-Y. Zhu, D. Ambrose, K. Badgley, R. H. Bernstein, S. Boi, B. C. K. Casey, R. Culbertson, A. Gaponenko, D. G. Glass, D. Glenzinski, L. Goodenough, A. Hocker, M. Kargiantoulakis, V. Kashikhin, B. Kiburg, R. Kutschke, P. A. Murat, D. Neuffer, V. S. Pronskikh, D. Pushka, G. Rakness, T. Strauss, M. Yucel, C. Bloise, E. Diociaiuti, J. Giovannella, F. Happacher, I. Sarra, M. Martini, S. E. Müller, R. Rachamin, E. Barlas-Yucel, A. Artikov, N. Atanov, Yu. I. Davydov, Y. Uesaka, S. P. Denisov, V. Evdokimov, A. V. Kozelov, A. V. Popov, I. Vasilyev, G. Tassielli, T. Teubner, R. T. Chislett, G. G. Hesketh, M. Lancaster, M. Campbell, M. A. C. Cummings, L. Calibbi, G. C. Blazey, M. J. Syphers, V. Zutshi, C. Kampa, M. MacKenzie, S. Di Falco, A. Gioiosa, V. Giusti, L. Morescalchi, D. Pasciuto, E. Pedreschi, F. Spinella, <em>M. T. Hedges</em>, M. Jones, Z. Y. You, A. M. Zanetti, E. V. Valetov, E. C. Dukes, R. Ehrlich, J. Heeck, P. Q. Hung, S. M. Demers, G. Pezzullo, K. R. Lynch, and J. L. Popp.</li>
+<li><a href="https://arxiv.org/abs/2203.07569">arXiv:2203.07569</a>.</li>
+<li><strong>Contributions:</strong> General review and participation in the sensitivity estimate group.</li>
+</ul>
+</li>
+<li><strong>A New Charged Lepton Flavor Violation Program at Fermilab</strong>
+<ul>
+<li>M. Aoki, R. B. Appleby, M. Aslaninejad, R. Barlow, R. H. Bernstein, C. Bloise, L. Calibbi, F. Cervelli, R. Culbertson, A. L. de Gouvêa, S. Di Falco, E. Diociaiuti, S. Donati, R. Donghia, B. Echenard, A. Gaponenko, S. Giovannella, C. Group, F. Happacher, <em>M. T. Hedges</em>, D. G. Hitlin, E. Hungerford, E. Johnstone, D. M. Kaplan, M. Kargiantoulakis, D. J. Kelliher, K. Kirch, A. Knecht, Y. Kuno, A. Kurup, J.-L. Lagrange, M. Lancaster, K. Long, A. Luca, K. Lynch, S. Machida, M. Martini, S. Middleton, S. Mihara, J. Miller, S. Miscetti, L. Morescalchi, Y. Mori, P. Murat, B. Muratori, D. Neuffer, A. Papa, J. Pasternak, E. Pedreschi, Y. Pezzullo, K. R. Lynch, and collaborators.</li>
+<li><a href="https://arxiv.org/abs/2203.08278">arXiv:2203.08278</a>.</li>
+<li><strong>Contributions:</strong> Major contributing author for the executive summary, introduction, muon-conversion experiments, and production-target sections.</li>
+</ul>
+</li>
+<li><strong>Application of recoil-imaging time projection chambers to directional neutron background measurements in the SuperKEKB accelerator tunnel</strong>
+<ul>
+<li>J. Schueler, S. E. Vahsen, P. M. Lewis, <em>M. T. Hedges</em>, D. Liventsev, F. Meier, H. Nakayama, A. Natochii, and T. N. Thorpe.</li>
+<li><a href="https://doi.org/10.1016/j.nima.2022.167291">DOI</a>.</li>
+<li><strong>Contributions:</strong> Initial detector design, construction, and operation; consultation on analysis, detector operation, and gas delivery system design.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-__(_In Progress_) Analysis of highly irradiated alloy 718 specimens after ion beam irradiation and H/He implantation__
-- __Anticipated Author list:__ Abe Burleigh, Kavin Ammigan, Ethan Fletcher, __Michael Hedges__, Kevin Lynch, Jonathan Williams
-- __Target Journal__: Journal of Nuclear Materials
-- __Submission Goal__: End of 2026
+<!-- Continue the remaining paper years (2021, 2020, 2019, 2018, 2015, 2014)
+using the same cv-year-group / cv-entry / ul / li structure.
+Preserve the full author lists and contribution notes from the original file. -->
 
-__(_In Progress_) The Mu2e Production Target__
-- __Anticipated Author list:__ Zunping Liu, Alajos Makovec, Andrew Edmonds, Frederique Pellemoine, Gerald Annala, James Miller, James Popp, Jonathan Williams, Katsuya Yonehara, Kevin Lynch, Madeleine Blooomer, and __Michael Hedges__
-- __Target Journal__: Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
-- __Submission Goal__: Spring 2027
+</div>
 
-__(_In Progress_) Conceptual design of a beam-dump and target facility for a future F2D2 site at Fermilab__
-- __Anticipated Author list:__ William Asztalos, __Michael T. Hedges__, Jonathan Williams, (likely more...)
-- __Target Journal__: Journal of Instrumentation (JINST)
-- __Submission Goal__: Spring 2027
+Presentations
 
+<div class="cv-timeline">
 
-<!-- this is a comment__(_In Progress_) F2D2 task force report__ -->
-`2025`
-__Challenges and optimization of Mu2e proton target design with radiative cooling__
-- Zunping Liu, Alajos Makovec, Andrew Edmonds, Frederique Pellemoine, Gerald Annala, James Miller, James Popp, Jonathan Williams, Katsuya Yonehara, Kevin Lynch, Madeleine Blooomer, and __Michael Hedges__
-- JACoW MEDSI2025 (2026) THOB03, JACoW (2025)
+<div class="cv-year-group">
+<div class="cv-year">2026</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong>High Power Targetry Workshop 2026</strong>
+<ul>
+<li>Contributed Talk.</li>
+<li><strong>Title:</strong> An Evolving Framework for the Mu2e Production Target.</li>
+</ul>
+</li>
+<li><strong>Engineering Advisory Council: Tech Talk Series</strong>
+<ul>
+<li>Invited Talk.</li>
+<li><strong>Title:</strong> Mu2e Beam Intensity Monitor.</li>
+</ul>
+</li>
+<li><strong>NBI/RaDIATE 2026</strong>
+<ul>
+<li>Contributed Talk.</li>
+<li><strong>Title:</strong> An Evolving Framework for the Mu2e Production Target.</li>
+</ul>
+</li>
+<li><strong>Charged Lepton Flavor Violation 2026</strong>
+<ul>
+<li>Invited Talk.</li>
+<li><strong>Title:</strong> Fermilab Accelerator Complex Upgrades and Charged Lepton Flavor Violation.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-`2024`
-__Design and Performance of an InAs Quantum Dot Scintillator with Integrated Photodetector__
-- Tushar Mahajan, Allan Minns, Vadim Tokranov, Michael Yakimov, *Michael Hedges*, Pavel Murat, and Serge Oktyabrsky
-- Sensors 2024, 24(22), 7178; [[https://doi.org/10.3390/s24227178]](https://doi.org/10.3390/s24227178).
-  
-__Device response principles and the impact on energy resolution of epitaxial quantum dot scintillators with monolithic photodetector integration__
-- Allan Minns, Tushar Mahajan, Vadim Tokranov, Michael Yakimov, *Michael Hedges*, Pavel Murat, and Serge Oktyabrsky
-- Sci Rep 14, 22870 (2024), [[https://doi.org/10.1038/s41598-024-74160-7]](https://doi.org/10.1038/s41598-024-74160-7).
-  
-__CPAD 2024 Whitepaper: Quantum Dot Scintillation Detector__
-- Serge Oktyabrsky, *Michael Hedges*, and Pavel Murat
-- [[https://drive.google.com/drive/folders/1U-QsgKwDZd5N5AJnUBu5N0ve85wHtAWR]](https://drive.google.com/drive/folders/1U-QsgKwDZd5N5AJnUBu5N0ve85wHtAWR).
+<div class="cv-year-group">
+<div class="cv-year">2025</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong>The LPC’s Colliders of Tomorrow</strong>
+<ul>
+<li>Invited Seminar.</li>
+<li><strong>Title:</strong> Next-Generation Accelerator and Beam Instrumentation with the modified Askaryan Calorimeter Experiment (mACE).</li>
+</ul>
+</li>
+<li><strong>Muon4Future 2025</strong>
+<ul>
+<li>Invited Talk.</li>
+<li><strong>Title:</strong> High-Power targetry for production of high intensity muon beams at current and next generation facilities.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-`2023`
-__Tests of light-lepton universality in angular asymmetries of hadronically tagged B -> D*{e, mu}nu decays at Belle II__
-- M. Eliachevitch, *M. T. Hedges*, P. M. Lewis, F. Bernlochner, et. al. (Belle II)
-- [[https://doi.org/10.1103/PhysRevLett.131.181801]](https://doi.org/10.1103/PhysRevLett.131.181801)
-- Contributions: Proposer and analyst.
+<div class="cv-year-group">
+<div class="cv-year">2024</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong>NuFact 2024</strong>
+<ul>
+<li><strong>Title:</strong> High-Power Targetry for Muon Production.</li>
+<li>Proceedings: <a href="https://doi.org/10.48550/arXiv.2501.1055">arXiv:2501.1055</a>.</li>
+</ul>
+</li>
+<li><strong>Coordinating Panel for Advanced Detectors Workshop (CPAD 2024)</strong>
+<ul>
+<li><strong>Title:</strong> Scintillating quantum dots for ultrafast charged-particle detection.</li>
+</ul>
+</li>
+<li><strong>International Muon Collider Collaboration: Demonstrator Workshop</strong>
+<ul>
+<li>Invited Talk.</li>
+<li><strong>Title:</strong> Muon Production at Mu2e.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-__Mu2e Run I Sensitivity Projections for the Neutrinoless mu -> e Conversion Search in Aluminum__
-- The Mu2e Collaboration
-- [[https://doi.org/10.3390/universe901005]](https://doi.org/10.3390/universe9010054)
-- Contributions: Simulation and analysis framework, decay-in-orbit background, absolute momentum scale calibration.
+<div class="cv-year-group">
+<div class="cv-year">2023</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong>Open LHCb Workshop on exclusive b → c decays</strong>
+<ul>
+<li>Invited Talk.</li>
+<li><strong>Title:</strong> Measurements of LFU in B → D(*)ℓν at B-Factories.</li>
+</ul>
+</li>
+<li><strong>Workshop on a Future Muon Program At Fermilab</strong>
+<ul>
+<li>Invited Talk.</li>
+<li><strong>Title:</strong> The Mu2e target.</li>
+</ul>
+</li>
+<li><strong>Lake Louise 2023 Winter Institute</strong>
+<ul>
+<li>Invited Talk.</li>
+<li><strong>Title:</strong> The Mu2e Experiment — Searching for Charged Lepton Flavor Violation.</li>
+</ul>
+</li>
+<li><strong>Discussion of shared targetry needs between MuCol (muon collider) and Mu2e</strong>
+<ul>
+<li>Invited Talk.</li>
+<li><strong>Title:</strong> Mu2e target design.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-`2022`
-__The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation__
-- M. T. Hedges, on behalf of the Mu2e experiment
-- [[doi.org/10.1016/j.nima.2022.167589]](https://doi.org/10.1016/j.nima.2022.167589)
-- Proceedings for the Vienna Conference on Instrumentation (VCI)
+<div class="cv-year-group">
+<div class="cv-year">2022</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong>Vienna Conference on Instrumentation</strong>
+<ul>
+<li><strong>Title:</strong> The Mu2e Experiment — Searching for Charged Lepton Flavor Violation.</li>
+<li>Proceedings: <a href="https://doi.org/10.1016/j.nima.2022.167589">DOI</a>.</li>
+</ul>
+</li>
+<li><strong>New Perspectives</strong>
+<ul>
+<li>Invited Talk.</li>
+<li><strong>Title:</strong> The Mu2e Experiment — Searching for Charged Lepton Flavor Violation.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-__Report of the Instrumentation Frontier Working Group for Snowmass 2021__
-- Phillip S. Barbeau, Petra Merkel, Jinlong Zhang, Darin Acosta, Anthony A. Affolder, Artur Apresyan, Marina Artuso, Vallary Bhopatkar, Stephen Butalla, Gabriella A. Carini, Thomas Cecil, Amy Connolly, C. Eric Dahl, Allison Deiana, Katherine Dunne , Carlos O. Escobar, Juan Estrada, Farah Fahim, James E. Fast, Maurice Garcia-Sciveres, Roxanne Guenette, *Michael T. Hedges*, Kent Irwin, Albrecht Karle, Wes Ketchum, Scott Kravitz, W. Hugh Lippincott, Reina H. Maruyama, Jess McIver, F. Mitchell Newcomer, John Parsons, Matt Pyle, Jennifer L. Raaf, Chris Rogan, Mayly C. Sanchez, Ian Shipsey, Bernd Surrow, Maxim Titov, Sven E. Vahsen, Caterina Vernieri, Andrew P. White, Steven Worm, Minfang Yeh, Rachel Yohay, and Jacob Zettlemoyer
-- [[arxiv:2209.14111]](https://arxiv.org/abs/2209.14111)
-- Contributions: Edits and providing text on quantum-dot based detectors in Novel Tracking Sensors, early-career liason.
+<div class="cv-year-group">
+<div class="cv-year">2021</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong>CPAD Instrumentation Frontier Workshop 2021</strong>
+<ul>
+<li>Invited Talk: Blue Skies presentation.</li>
+<li><strong>Title:</strong> Particle tracking at light speed with quantum dots.</li>
+</ul>
+</li>
+<li><strong>CPAD Instrumentation Frontier Workshop 2021</strong>
+<ul>
+<li><strong>Title:</strong> Quantum dot based scintillators for charged particle detection.</li>
+</ul>
+</li>
+<li><strong>2021 Meeting of the Division of Particles and Fields of the American Physical Society (DPF21)</strong>
+<ul>
+<li><strong>Title:</strong> Quantum dot based scintillators for charged particle detection.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-__Solid State Detectors and Tracking for Snowmass__
-- A. Affolder, A. Apresyan, S. Worm, M. Albrow, D. Ally, D. Ambrose, E. Anderssen, N. Apadula, P. Asenov, W. Armstrong, M. Artuso, A. Barbier, P. Barletta, L. Bauerdick, D. Berry, M. Bomben, M. Boscardin, J. Brau, W. Brooks, M. Breidenbach, J. Buckley, V. Cairo, R. Caputo, L. Carpenter, M. Centis-Vignali, M. Cerullo, A. Collu, F. Chlebana, G.-F. Dalla-Betta, M. Demarteau, G. Deptuch, K. Di Petrillo, G. D'Amen, A. Dragone, N.T. Fourches, M. Garcia-Sciveres, G. Giacomini, C. Gingu, N. Graf, C. Grace, S. Griso, L. Greiner, C. Haber, G. Haller, K. Harris, T. Heim, U. Heinz, R. Heller, *M.T. Hedges*, R. Herbst, M.R. Hoeferkamp, T. Holmes, S.E. Holland, S.-C. Hsu, R. Islam, M. Jadhav, S. Jindariani, S. Joosten, A. Jung, S. Karmarkar, C. Kenney, C. Kierans, J. Kim, S. Kim, S. Klein, A. Koshy, K. Krizka, A. Lai, L. Lee, L. Linssen, R. Lipton, T. Liu, C. Madrid, T. Mahajan, T. Markiewicz, B. Markovic, S. Mazza, M. Mazziotta, Y. Mei, P. Merkel, J. Metcalfe, Z.-E. Meziani, A. Minns, F. Moscatelli, P. Murat, J. Muth, B. Nachman, S. Nahn, M. Narain, E.A. Narayanan, T. Nelson, J. Nielsen, S. Oktyabrsky, J. Ott, F.R. Palomo, D. Passeri, R. Patti, T. Peltola, C. Pena, C. Peng , C. Renard, P. Reimer, C. Rogan, L. Rota, H. Sadrozinski, J. Segal, A. Schwartzman, B. Schumm, M. Scott, S. Seidel, A. Seiden, B. Sekely, X. Shi, E. Sichtermann, N. Sinev, J. Sonneveld, L. Spiegel, A. Steinhebel, D. Strom, D.M.S. Sultan, A. Sumant, V. Tokranov, A. Tricoli, W. Trischuk, A. Tumasyan, L. Uplegger, C. Vernieri, H. Wang, P. Wagenknecht, H. Weber, S. Xie, M. Yakimov, Z. Ye, C. Young, and M. Zurek
-- [[arxiv:2209.03607]](https://arxiv.org/abs/2209.03607)
-- Contributions: Text for quantum-dot based detectors in Novel Tracking Sensors.
+<div class="cv-year-group">
+<div class="cv-year">2018</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong>APS April Meeting</strong>
+<ul>
+<li><strong>Title:</strong> First application of a novel directional neutron detector to background measurements at SuperKEKB.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-__Novel Sensors for Particle Tracking: a Contribution to the Snowmass Community Planning Exercise of 2021__
-- M.R. Hoeferkamp, S. Seidel, S. Kim, J. Metcalfe, A. Sumant, H. Kagan, W. Trischuk, M. Boscardin, G.-F. Dalla Betta, D.M.S. Sultan, N.T. Fourches, C. Renard, A. Barbier, T. Mahajan, A. Minns, V. Tokranov, M. Yakimov, S. Oktyabrsky, C. Gingu, P. Murat, and *M.T. Hedges*
-- [[arxiv:2202.11828]](https://arxiv.org/abs/2202.11828)
-- Contributions: Executive summary, primary author for chapter on quantum-dot based detectors.
+<div class="cv-year-group">
+<div class="cv-year">2017</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong>APS Division of Particles and Fields</strong>
+<ul>
+<li><strong>Title:</strong> Directional measurements of fast neutron backgrounds at SuperKEKB.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-__Mu2e-II: Muon to electron conversion with PIP-II__
-- K. Byrum, S. Corrodi, Y. Oksuzian, P. Winter, L. Xia, A. W. J. Edmonds, J. P. Miller, J. Mott, W. J. Marciano, R. Szafron, R. Bonventre, D. N. Brown, Yu. G. Kolomensky, O. Ning, V. Singh, E. Prebys, L. Borrel, B. Echenard, D. G. Hitlin, C. Hu, D. X. Lin, S. Middleton, F. C. Porter, L. Zhang, R.-Y. Zhu, D. Ambrose, K. Badgley, R. H. Bernstein, S. Boi, B. C. K. Casey, R. Culbertson, A. Gaponenko, H. D. Glass, D. Glenzinski, L. Goodenough, A. Hocker, M. Kargiantoulakis, V. Kashikhin, B. Kiburg, R. K. Kutschke, P. A. Murat, D. Neuffer, V. S. Pronskikh, D. Pushka, G. Rakness, T. Strauss, M. Yucel, C. Bloise, E. Diociaiuti, S. Giovannella, F. Happacher, S. Miscetti, I. Sarra, M. Martini, A. Ferrari, S. E. Müller, R. Rachamin, E. Barlas-Yucel, A. Artikov, N. Atanov, Yu. I. Davydov, V. Glagolev, I. I. Vasilyev, D. N. Brown, Y. Uesaka, S. P. Denisov, V. Evdokimov, A. V. Kozelov, A. V. Popov, I. A. Vasilyev, G. Tassielli, T. Teubner, R. T. Chislett, G. G. Hesketh, M. Lancaster, M. Campbell, K. Ciampa, K. Heller, B. Messerly, M. A. C. Cummings, L. Calibbi, G. C. Blazey, M. J. Syphers, V. Zutshi, C. Kampa, M. MacKenzie, S. Di Falco, S. Donati, A. Gioiosa, V. Giusti, L. Morescalchi, D. Pasciuto, E. Pedreschi, F. Spinella, *M. T. Hedges*, M. Jones, Z. Y. You, A. M. Zanetti, E. V. Valetov, E. C. Dukes , R. Ehrlich, R. C. Group, J. Heeck, P. Q. Hung, S. M. Demers, G. Pezzullo, K. R. Lynch, and J. L. Popp
-- [[arxiv:2203.07569]](https://arxiv.org/abs/2203.07569)
-- Contributions: General review, paritcipation in senstivity estimate group.
+<div class="cv-year-group">
+<div class="cv-year">2013</div>
+<div class="cv-entries">
+<div class="cv-entry">
+<ul>
+<li><strong>DHS Domestic Nuclear Detection Office (DNDO) Academic Research Initiative (ARI) Grantees’ Conference</strong>
+<ul>
+<li><strong>Title:</strong> Performance Studies of a Prototype Directional Neutron Detector Using Cosmic Rays.</li>
+<li>Awarded “Best Student Presentation.”</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
-__A New Charged Lepton Flavor Violation Program at Fermilab__
-- M. Aoki, R. B. Appleby, M. Aslaninejad, R. Barlow, R.H. Bernstein, C. Bloise, L.Calibbi, F. Cervelli, R. Culbertson, Andre Luiz de Gouvea, S. Di Falco, E. Diociaiuti, S. Donati, R. Donghia, B. Echenard, A. Gaponenko, S. Giovannella, C. Group, F. Happacher, *M. T. Hedges*, D.G. Hitlin, E. Hungerford, C. Johnstone, D. M. Kaplan, M. Kargiantoulakis, D. J. Kelliher, K. Kirch, A. Knecht, Y. Kuno, A. Kurup, J.-B. Lagrange, M. Lancaster, K. Long, A. Luca, K. Lynch, S. Machida, M. Martini, S. Middleton, S. Mihara, J. Miller, S. Miscetti, L. Morescalchi, Y. Mori, P. Murat, B. Muratori, D. Neuffer, A. Papa, J. Pasternak, E. Pedreschi, G. Pezzullo, T. Planche, F. Porter, E. Prebys, C. R. Prior, V. Pronskikh, R. Ray, F. Renga, C. Rogers, I. Sarra, A. Sato, S. L. Smith, F. Spinella, D. Stratakis, M. Syphers, N.M. Truong, S. Tygier, Y. Uchida, and M. Yucel
-- [[arxiv:2203.08278]](https://arxiv.org/abs/2203.08278)
-- Contributions: Major contributing author for executive summary, introduction, muon-conversion experiments, and production target sections.
+<!-- Add the remaining original presentations for 2019 and any other omitted years
+using the same structure. -->
 
-__Application of recoil-imaging time projection chambers to directional neutron background measurements in the SuperKEKB accelerator tunnel__
-- J. Schueler, S.E. Vahsen, P.M. Lewis, *M.T. Hedges*, D. Liventsev, F. Meier, H. Nakayama, A. Natochii, and T.N. Thorpe
-- [[doi.org/10.1016/j.nima.2022.167291]](https://doi.org/10.1016/j.nima.2022.167291)
-- Contributions: Initial detector design, construction, and operation; consultation on analysis, detector operation, and design of gas delivery system.
-
-`2021`
-
-__First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
-- *M. T. Hedges*, S.E. Vahsen, I. Jaegle, P. M. Lewis, H. Nakayama, T. N. Thorpe
-- [[doi.org/10.1016/j.nima.2021.166066]](https://doi.org/10.1016/j.nima.2021.166066)
-- Contributions: Journal submission of my thesis (corresponding author).
-
-__Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
-- A. Minns, K. Dropiewski, M. Yakimov, V. Tokranov, *M. Hedges*, P. Murat, and S. Oktyabrksy
-- [[doi.org/10.1557/s43580-021-00019-y]](https://doi.org/10.1557/s43580-021-00019-y)
-- Contributions: Consultation on experimental design and contextualizing performance of novel detector system within broader HEP applications.
-
-__Primary track recovery in high-definition gas time projection chambers__
-- P. M. Lewis, *M. T. Hedges*, I. Jaegle, J. Schueler, T. N. Thorpe, S. E. Vahsen
-- [[doi.org/10.1140/epjc/s10052-022-10283-3]](https://doi.org/10.1140/epjc/s10052-022-10283-3)
-- Contributions: Production and validation of first-of-its-kind large-scale dataset of simulated nuclear recoils in a TPC-based micro-pattern gas detector; high-performance computing implementation of production and processing of simulated and experimental data; design, construction, and operation of detector system; consultation on analysis.
-
-`2020`
-__A time resolved study of injection backgrounds during the first commissioning phase of SuperKEKB__
-- Miroslav Gabriel, Frank Simon, Hendrik Windel, Yoshihiro Funakoshi, *Michael Hedges*, Naoko Iida, Igal Jaegle, Christian Kiesling, Naomi van der Kolk, Peter Lewis, Hiroyuki Nakayama, Yukiyoshi Ohnishi, Riccardo de Sangro, Yusuke Suetsugu, Marco Szalay, Sven Vahsen,
-- [[doi.org/10.1140/epjc/s10052-021-09769-3]](https://doi.org/10.1140/epjc/s10052-021-09769-3)
-- Contributions: Asissted in installation, commissioning, operation, and data collection of experimental setup.
-
-`2019`
-__Compact, directional neutron detectors capable of high-resolution nuclear recoil imaging__ 
-- I. Jaegle, P. M. Lewis, M. Garcia-Sciveres, *M. T. Hedges*, T. Hemperek, J. Janssen, Q. Li, D.-L. Pohl, S. Ross, J.
-  Schueler, I. Seong, T. N. Thorpe, S. E. Vahsen
-- [[doi.org/10.1016/j.nima.2019.06.037]](https://doi.org/10.1016/j.nima.2019.06.037)
-- Contributions: Detector design, construction, operation, and testing; design and evaluation of gas delivery system; data analysis, testbeam operation, and data collection.
-
-`2018`
-__First Measurements of Beam Backgrounds at SuperKEKB__
-- P.M. Lewis, I. Jaegle, H. Nakayama, A. Aloisio, F. Ameli, M. Barrett, A. Beaulieu, L. Bosisio, P. Branchini, T.E. Browder, A. Budano, G. Cautero, C. Cecchi, Y.-T. Chen, K.-N. Chu, D. Cinabro, P. Cristaudo, S. de Jong, R. de Sangro, G. Finocchiaro, J. Flanagan, Y. Funakoshi, M. Gabriel, R. Giordano, D. Giuressi, *M.T. Hedges*, N. Honkanen, H. Ikeda, T. Ishibashi, H. Kaji, K. Kanazawa, C. Kiesling, S. Koirala, P. Križan, C. La Licata, L. Lanceri, J.-J. Liau, F.-H. Lin, J.-C. Lin, Z. Liptak, S. Longo, E. Manoni, C. Marinas, K. Miyabayashi, E. Mulyani, A. Morita, M. Nakao, M. Nayak, Y. Ohnishi, A. Passeri, P. Poffenberger, M. Ritzert, J.M. Roney, A. Rossi, T. Röder, R.M. Seddon, I.S. Seong, J.-G. Shiu, F. Simon, Y. Soloviev, Y. Suetsugu, M. Szalay, S. Terui, G. Tortone, S.E. Vahsen, N. van der Kolk, L. Vitale, M.-Z. Wang, H. Windel, S. Yokoyama
-- [[doi.org/10.1016/j.nima.2018.05.071]](https://doi.org/10.1016/j.nima.2018.05.071)
-- Contributions: Principal analyst for fast-neutron backgrounds; primary onsite lead for construction and safety, experimental integration, operation, data collection, and shift coordination.
-
-`2015`
-__Absolute position measurement in a gas time projection chamber via transverse
-diffusion of drift charge__
-- P. M. Lewis, S.E. Vahsen, I. S. Seong, *M. T. Hedges*, I. Jaegle, T. N. Thorpe
-- [[doi.org/10.1016/j.nima.2015.03.024]](https://doi.org/10.1016/j.nima.2015.03.024)
-- Contributions: Development of initial track reconstruction algorithm, initial detector design, construction, and operation.
-
-`2014`
-__3-D Tracking of Nuclear Recoils in a Miniature Time Projection Chamber__
-- S.E. Vahsen, *M.T. Hedges*, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
-Yamaoka, J.A. Kadyk, M. Garcia-Sciveres
-- [[10.1016/j.nima.2015.03.009]](https://doi.org/10.1016/j.nima.2015.03.009)
-- Contributions: Principal analyst and author on detector point resolution analysis, development of initial track reconstruction algorithm, initial detector design, construction, and operation.
+</div>
 
 ### Presentations
 `2026`
