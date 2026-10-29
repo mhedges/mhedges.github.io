@@ -69,7 +69,7 @@ Fermilab Associate Scientist
 
   <div class="cv-entry">
 
-  ### Boston University
+  Boston University
 
   - B.A. in Physics
 
