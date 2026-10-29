@@ -148,11 +148,11 @@ description: High-power targetry, beam instrumentation, and precision particle p
   <div class="section-kicker">WORKING ACROSS DISCIPLINES</div>
   <h2>The hardest problems rarely belong to one field.</h2>
   <p class="collaboration-copy">
-    High-power targetry draws on accelerator physics, particle production,
-    materials science, simulation, thermal and mechanical engineering, and
-    instrumentation. I enjoy working with curious, motivated people who want
-    to tackle difficult problems across these boundaries. If your expertise
-    connects with these challenges, I'd be glad to talk.
+    High-power targetry draws on accelerator physics, particle physics,
+    materials science, radiation physics, simulation, thermal and mechanical 
+    engineering, and instrumentation. I enjoy working with curious, motivated
+    people who want to tackle difficult problems across boundaries. If
+    your expertise connects with these challenges, I'd be glad to talk.
   </p>
   <a class="button button-dark" href="mailto:mhedges@fnal.gov">Get in touch ↗</a>
 </section>
