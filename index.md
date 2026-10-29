@@ -107,17 +107,6 @@ description: High-power targetry, beam instrumentation, and precision particle p
 
     <div class="future-list">
       <article class="future-item">
-        <span class="future-index">A</span>
-        <div>
-          <h3>Mu2e-II and the Advanced Muon Facility</h3>
-          <p>
-            Exploring future opportunities for precision measurements and
-            rare-process searches involving muons, and the accelerator and
-            target systems needed to enable them.
-          </p>
-        </div>
-      </article>
-      <article class="future-item">
         <span class="future-index">B</span>
         <div>
           <h3>Neutrino facilities: LBNF / DUNE</h3>
@@ -125,6 +114,17 @@ description: High-power targetry, beam instrumentation, and precision particle p
             High-power targetry presents important challenges for intense
             neutrino beams, with its own requirements for particle production,
             thermal management, radiation damage, and reliable operation.
+          </p>
+        </div>
+      </article>
+      <article class="future-item">
+        <span class="future-index">A</span>
+        <div>
+          <h3>Mu2e-II and the Advanced Muon Facility</h3>
+          <p>
+            Exploring future opportunities for precision measurements and
+            rare-process searches involving muons, and the accelerator and
+            target systems needed to enable them.
           </p>
         </div>
       </article>
