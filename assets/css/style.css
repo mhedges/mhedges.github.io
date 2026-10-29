@@ -729,3 +729,71 @@ img {
     transition-duration: 0.01ms !important;
   }
 }
+/* CV: restrained chronological markers */
+
+.cv-timeline {
+  margin-block: 1.5rem 2.5rem;
+}
+
+.cv-year-group {
+  display: grid;
+  grid-template-columns: 76px minmax(0, 1fr);
+  gap: 28px;
+  padding-block: 1.5rem;
+  border-top: 1px solid var(--line);
+}
+
+.cv-year {
+  padding-top: 0.15rem;
+  color: var(--teal);
+  font-size: 0.9rem;
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+}
+
+.cv-entries {
+  min-width: 0;
+}
+
+.cv-entry + .cv-entry {
+  margin-top: 1.5rem;
+}
+
+.cv-entry h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1.05rem;
+  font-weight: 500;
+  letter-spacing: -0.015em;
+  line-height: 1.45;
+}
+
+.cv-entry p {
+  margin: 0.35rem 0;
+}
+
+.cv-entry ul {
+  margin-block: 0.4rem 0;
+  padding-left: 1.25rem;
+}
+
+.cv-entry li {
+  margin-block: 0.2rem;
+}
+
+.cv-entry a {
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 560px) {
+  .cv-year-group {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+    padding-block: 1.25rem;
+  }
+
+  .cv-year {
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+  }
+}

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Curriculum Vitae | Michael Hedges
-description: Curriculum vitae ofMichael Hedges, Ph.D., Associate Scientist at Fermilab.
+description: Curriculum vitae of Michael Hedges, Ph.D., Associate Scientist at Fermilab.
 permalink: /cv/
 ---
 
@@ -14,27 +14,69 @@ Fermilab Associate Scientist
 </div>
 
 ## Education and Employment
-__Fermi National Accelerator Laboratory__
-- Associate Scientist
-- Accelerator Directorate / Target Systems Division / Target Physics Group
-- (AD/TSD/TPHYS)
 
-  
-__Purdue University__
-- Post Doc Research Associate (2018-2023)
-- Supervisors: John Finley, Matthew Jones, David Koltick
+<div class="cv-timeline">
 
-  
-`2018`
-__University of Hawaii at Manoa__
-- PhD in Physics
-- Advisor: Sven Vahsen
-- Thesis title: Performance and First Deployment of Novel 3d Nuclear Recoil Detectors
+<div class="cv-year-group">
+  <div class="cv-year">Current</div>
+  <div class="cv-entries">
 
+  <div class="cv-entry">
 
-`2011`
-__Boston University__
-- BA Physics
+  ### Fermi National Accelerator Laboratory
+
+  - Associate Scientist
+  - Accelerator Directorate / Target Systems Division / Target Physics Group (AD/TSD/TPHYS)
+
+  </div>
+  </div>
+</div>
+
+<div class="cv-year-group">
+  <div class="cv-year">2018–2023</div>
+  <div class="cv-entries">
+
+  <div class="cv-entry">
+
+  ### Purdue University
+
+  - Postdoctoral Research Associate
+  - Supervisors: John Finley, Matthew Jones, David Koltick
+
+  </div>
+  </div>
+</div>
+
+<div class="cv-year-group">
+  <div class="cv-year">2018</div>
+  <div class="cv-entries">
+
+  <div class="cv-entry">
+
+  ### University of Hawaiʻi at Mānoa
+
+  - Ph.D. in Physics
+  - Advisor: Sven Vahsen
+  - Thesis: *Performance and First Deployment of Novel 3D Nuclear Recoil Detectors*
+
+  </div>
+  </div>
+</div>
+
+<div class="cv-year-group">
+  <div class="cv-year">2011</div>
+  <div class="cv-entries">
+
+  <div class="cv-entry">
+
+  ### Boston University
+
+  - B.A. in Physics
+
+  </div>
+  </div>
+</div>
+</div>
 
 ## Research
 __Mu2e__
