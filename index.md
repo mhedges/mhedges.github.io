@@ -165,7 +165,7 @@ description: High-power targetry, beam instrumentation, and precision particle p
       <h2>Research, publications, and background.</h2>
     </div>
     <div class="link-list">
-      <a href="https://mhedges.github.io/markdown-cv/"><span>Curriculum vitae and select publicatios</span><span>↗</span></a>
+      <a href="https://mhedges.github.io/cv/"><span>Curriculum vitae and select publicatios</span><span>↗</span></a>
       <a href="https://inspirehep.net/authors/1259719"><span>Publications on INSPIRE-HEP</span><span>↗</span></a>
       <a href="https://orcid.org/0000-0001-6504-1872"><span>ORCID</span><span>↗</span></a>
       <a href="https://mu2e.fnal.gov/"><span>Mu2e Experiment</span><span>↗</span></a>
