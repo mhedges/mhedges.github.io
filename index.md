@@ -110,7 +110,7 @@ description: High-power targetry, beam instrumentation, and precision particle p
       <article class="future-item">
         <span class="future-index">A</span>
         <div>
-          <h3>Mu2e-II and advanced muon facilities</h3>
+          <h3>Mu2e-II and the Advanced Muon Facility</h3>
           <p>
             Exploring future opportunities for precision measurements and
             rare-process searches involving muons, and the accelerator and
