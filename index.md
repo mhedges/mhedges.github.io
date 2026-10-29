@@ -18,7 +18,7 @@ description: High-power targetry, beam instrumentation, and precision particle p
     </p>
     <div class="hero-actions">
       <a class="button button-primary" href="#research">Explore my research <span>↓</span></a>
-      <a class="button button-outline" href="https://mhedges.github.io/markdown-cv/">Curriculum vitae ↗</a>
+      <a class="button button-outline" href="https://mhedges.github.io/cv/">Curriculum vitae ↗</a>
     </div>
     <p class="hero-caption">Michael Hedges, Ph.D. <span>·</span> Associate Scientist, Fermilab</p>
   </div>
