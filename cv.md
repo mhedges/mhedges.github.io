@@ -79,33 +79,62 @@ Fermilab Associate Scientist
 </div>
 
 ## Research
-__Mu2e__
-- *Target Station*
-    - Leading Mu2e Production Target development team.
-    - Developing target health and beam diagnostics instrumentation with university partners.
-    - Facilitating completion of Mu2e Target Station Project work and transition to Operations.
- - *Collaboration Service*
-     - Speakers' Committee member (2022-present)
-     - Analysis Review Committee member (ongoing analysis)
 
-__Future Facility for Dark matter Discovery (F2D2)__
-- Participation on task force exploring feasibility of a future beamdump-based dark matter facility at Fermilab utilizing Linac2.
-       
-__Instrumentation__
-- *mACE @ Mu2e*
-  - FNAL lead in development of instrumentation based on modified Askaryan Calorimetry Experiment (mACE) (U. Hawaii) for target health monitoring and beam diagnostics at Mu2e.
-- *Quantum-dot based scintillators for charged-particle detection.*
-    - Co-PI of submitted proposal with U. Albany (DOE FY25 Continuing Solicitation).
-    - Co-maintainer of Geant4-based simulation of novel detector system.
+<div class="cv-timeline">
 
-__Belle II__
-- Affiliation: University of Bonn (Visting Scientist)
-- Group leader: Florian Bernlochner
-- _Angular analyses of B -> D\*lnu decays_
-    - Lead analyst of world's first measurement of light-lepton universality in full suite of angular observables in exclusive B0->D\*lnu decays. (Published in Physical Review Letters October 2023)
-    - Updated full angular analysis using more data ongoing (see Mentorship)
-- Analysis Review Committee member (completed analysis with publication)
- 
+<div class="cv-year-group">
+  <div class="cv-year">Current</div>
+  <div class="cv-entries">
+
+  <div class="cv-entry">
+
+  **Mu2e — Target Station**
+
+  - Leading Mu2e Production Target development team.
+  - Developing target health and beam diagnostics instrumentation with university partners.
+  - Facilitating completion of Mu2e Target Station Project work and transition to Operations.
+
+  **Mu2e — Collaboration Service**
+
+  - Speakers' Committee member (2022–present).
+  - Analysis Review Committee member (ongoing analysis).
+
+  **Future Facility for Dark Matter Discovery (F2D2)**
+
+  - Participation on task force exploring feasibility of a future beam-dump-based dark matter facility at Fermilab utilizing Linac2.
+
+  **Instrumentation — mACE @ Mu2e**
+
+  - FNAL lead in development of instrumentation based on modified Askaryan Calorimetry Experiment (mACE, U. Hawaiʻi) for target health monitoring and beam diagnostics at Mu2e.
+
+  **Quantum-dot-based scintillators for charged-particle detection**
+
+  - Co-PI of submitted proposal with U. Albany (DOE FY25 Continuing Solicitation).
+  - Co-maintainer of Geant4-based simulation of novel detector system.
+
+  </div>
+  </div>
+</div>
+
+<div class="cv-year-group">
+  <div class="cv-year">2023–2024</div>
+  <div class="cv-entries">
+
+  <div class="cv-entry">
+
+  **Belle II — Angular analyses of B → D*ℓν decays**
+
+  - Affiliation: University of Bonn (Visiting Scientist).
+  - Group leader: Florian Bernlochner.
+  - Lead analyst of the first measurement of light-lepton universality in the full suite of angular observables in exclusive B⁰ → D*ℓν decays, published in *Physical Review Letters* in October 2023.
+  - Updated full angular analysis using additional data ongoing.
+  - Analysis Review Committee member for completed analysis with publication.
+
+  </div>
+  </div>
+</div>
+
+</div>
 
 ## Mentorship
 __Ryan Kim__
