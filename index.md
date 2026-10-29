@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Michael Hedges | Accelerator Physics & Instrumentation
