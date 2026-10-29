@@ -106,7 +106,7 @@ description: High-power targetry, beam instrumentation, and precision particle p
 
     <div class="future-list">
       <article class="future-item">
-        <span class="future-index">B</span>
+        <span class="future-index">A</span>
         <div>
           <h3>Neutrino facilities: LBNF / DUNE</h3>
           <p>
@@ -117,7 +117,7 @@ description: High-power targetry, beam instrumentation, and precision particle p
         </div>
       </article>
       <article class="future-item">
-        <span class="future-index">A</span>
+        <span class="future-index">B</span>
         <div>
           <h3>Mu2e-II and the Advanced Muon Facility</h3>
           <p>
@@ -136,7 +136,7 @@ description: High-power targetry, beam instrumentation, and precision particle p
             contributing to the broader effort to develop the target concepts
             and capabilities a future muon collider would require.
           </p>
-          <a class="text-link" href="https://muoncollider.us/contact">USMCC organization ↗</a>
+          <a class="text-link" href="muoncollider.us/contact">USMCC organization ↗</a>
         </div>
       </article>
     </div>
