@@ -1,0 +1,12 @@
+title: Michael Hedges
+description: Research in high-power targetry, accelerator instrumentation, and precision particle physics.
+url: "https://mhedges.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
