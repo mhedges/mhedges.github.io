@@ -22,7 +22,6 @@ description: High-power targetry, beam instrumentation, and precision particle p
     </div>
     <p class="hero-caption">Michael Hedges, Ph.D. <span>·</span> Associate Scientist, Fermilab</p>
   </div>
-  <div class="hero-index" aria-hidden="true">01 / RESEARCH</div>
 </section>
 
 <section class="intro section container" id="about">
