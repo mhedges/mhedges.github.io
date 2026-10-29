@@ -1,2 +1,2 @@
 # mhedges.github.io
-Landing page for personal website
+Homepage for Michael Hedges, associate scientist at Fermilab
