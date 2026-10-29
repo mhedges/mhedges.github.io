@@ -23,7 +23,7 @@ Fermilab Associate Scientist
 
   <div class="cv-entry">
 
-  ### Fermi National Accelerator Laboratory
+  Fermi National Accelerator Laboratory
 
   - Associate Scientist
   - Accelerator Directorate / Target Systems Division / Target Physics Group (AD/TSD/TPHYS)
@@ -38,7 +38,7 @@ Fermilab Associate Scientist
 
   <div class="cv-entry">
 
-  ### Purdue University
+  Purdue University
 
   - Postdoctoral Research Associate
   - Supervisors: John Finley, Matthew Jones, David Koltick
@@ -53,7 +53,7 @@ Fermilab Associate Scientist
 
   <div class="cv-entry">
 
-  ### University of Hawaiʻi at Mānoa
+  University of Hawaiʻi at Mānoa
 
   - Ph.D. in Physics
   - Advisor: Sven Vahsen
