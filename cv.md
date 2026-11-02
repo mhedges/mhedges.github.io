@@ -69,6 +69,7 @@ Fermilab Associate Scientist
     </div>
   </div>
 </div>
+</div>
 
 ## Research
 
