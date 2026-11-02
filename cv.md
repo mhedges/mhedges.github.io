@@ -53,7 +53,7 @@ Fermilab Associate Scientist
     <div class="cv-entries">
       <div class="cv-entry">
         <ul>
-        <li></strong>University of Hawaiʻi at Mānoa</li>
+        <li></strong>University of Hawaiʻi at Mānoa</strong>
         <ul>
         <li><em>Ph.D. in Physics</em></li>
         <li>Advisor: Sven Vahsen</li>
@@ -70,7 +70,7 @@ Fermilab Associate Scientist
     <div class="cv-entries">
       <div class="cv-entry">
       <ul>
-      <li></strong>Boston University</strong></li>
+      <li></strong>Boston University</strong>
       <ul>
       <li>B.A. in Physics</li>
       </ul>
