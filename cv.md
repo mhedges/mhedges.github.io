@@ -133,24 +133,23 @@ Fermilab Associate Scientist
 
   <div class="cv-year-group">
     <div class="cv-year">2023–2024</div>
-      <div class="cv-entries">
-        <div class="cv-entry">
-          <ul>
-          <li><strong>Belle II</strong>
-          <ul>
-          <li>Affiliation: University of Bonn (Visiting Scientist).</li>
-          <li>Group leader: Florian Bernlochner.</li>
-          <li><em>Angular analyses of B → D*ℓν decays</em>
-          <ul>
-          <li>Lead analyst of the first measurement of light-lepton universality in the full suite of angular observables in exclusive B⁰ → D*ℓν decays, published in <em>Physical Review Letters</em> in October 2023.</li>
-          <li>Updated full angular analysis using more data ongoing (see Mentorship).</li>
-          </ul>
-          </li>
-          <li>Analysis Review Committee member (completed analysis with publication).</li>
-          </ul>
-          </li>
-          </ul>
-        </div>
+    <div class="cv-entries">
+      <div class="cv-entry">
+        <ul>
+        <li><strong>Belle II</strong>
+        <ul>
+        <li>Affiliation: University of Bonn (Visiting Scientist).</li>
+        <li>Group leader: Florian Bernlochner.</li>
+        <li><em>Angular analyses of B → D*ℓν decays</em>
+        <ul>
+        <li>Lead analyst of the first measurement of light-lepton universality in the full suite of angular observables in exclusive B⁰ → D*ℓν decays, published in <em>Physical Review Letters</em> in October 2023.</li>
+        <li>Updated full angular analysis using more data ongoing (see Mentorship).</li>
+        </ul>
+        </li>
+        <li>Analysis Review Committee member (completed analysis with publication).</li>
+        </ul>
+        </li>
+        </ul>
       </div>
     </div>
   </div>
