@@ -26,6 +26,7 @@ Fermilab Associate Scientist
        <li><em>Associate Scientist</em></li>
        <li>Accelerator Directorate / Target Systems Division / Target Physics Group (AD/TSD/TPHYS)</li>
        </ul>
+       </ul>
        </div>
     </div>
   </div>
@@ -39,6 +40,7 @@ Fermilab Associate Scientist
         <ul>
         <li><em>Postdoctoral Research Associate</em></li>
         <li>Supervisors: John Finley, Matthew Jones, David Koltick</li>
+        </ul>
         </ul>
       </div>
     </div>
@@ -55,6 +57,7 @@ Fermilab Associate Scientist
         <li>Advisor: Sven Vahsen</li>
         <li>Thesis: <strong>Performance and First Deployment of Novel 3D Nuclear Recoil Detectors</strong></li>
         </ul>
+        </ul>
       </div>
     </div>
   </div>
@@ -65,7 +68,10 @@ Fermilab Associate Scientist
       <div class="cv-entry">
       <ul>
       <li></strong>Boston University</strong></li>
+      <ul>
       <li>B.A. in Physics</li>
+      </ul>
+      </ul>
       </div>
     </div>
   </div>
