@@ -26,49 +26,49 @@ Fermilab Associate Scientist
        <li><em>Associate Scientist</em></li>
        <li>Accelerator Directorate / Target Systems Division / Target Physics Group (AD/TSD/TPHYS)</li>
        </ul>
+       </div>
     </div>
   </div>
-</div>
 
-<div class="cv-year-group">
-  <div class="cv-year">2018–2023</div>
-  <div class="cv-entries">
-    <div class="cv-entry">
-      <ul>
-      <li><strong>Purdue University</strong>
-      <ul>
-      <li><em>Postdoctoral Research Associate</em></li>
-      <li>Supervisors: John Finley, Matthew Jones, David Koltick</li>
-      </ul>
+  <div class="cv-year-group">
+    <div class="cv-year">2018–2023</div>
+    <div class="cv-entries">
+      <div class="cv-entry">
+        <ul>
+        <li><strong>Purdue University</strong>
+        <ul>
+        <li><em>Postdoctoral Research Associate</em></li>
+        <li>Supervisors: John Finley, Matthew Jones, David Koltick</li>
+        </ul>
+      </div>
     </div>
   </div>
-</div>
-
-<div class="cv-year-group">
-  <div class="cv-year">2018</div>
-  <div class="cv-entries">
-    <div class="cv-entry">
-      <ul>
-      <li></strong>University of Hawaiʻi at Mānoa</li>
-      <ul>
-      <li><em>Ph.D. in Physics</em></li>
-      <li>Advisor: Sven Vahsen</li>
-      <li>Thesis: <strong>Performance and First Deployment of Novel 3D Nuclear Recoil Detectors</strong></li>
-      </ul>
+  
+  <div class="cv-year-group">
+    <div class="cv-year">2018</div>
+    <div class="cv-entries">
+      <div class="cv-entry">
+        <ul>
+        <li></strong>University of Hawaiʻi at Mānoa</li>
+        <ul>
+        <li><em>Ph.D. in Physics</em></li>
+        <li>Advisor: Sven Vahsen</li>
+        <li>Thesis: <strong>Performance and First Deployment of Novel 3D Nuclear Recoil Detectors</strong></li>
+        </ul>
+      </div>
     </div>
   </div>
-</div>
-
-<div class="cv-year-group">
-  <div class="cv-year">2011</div>
-  <div class="cv-entries">
-    <div class="cv-entry">
-    <ul>
-    <li></strong>Boston University</strong></li>
-    <li>B.A. in Physics</li>
+  
+  <div class="cv-year-group">
+    <div class="cv-year">2011</div>
+    <div class="cv-entries">
+      <div class="cv-entry">
+      <ul>
+      <li></strong>Boston University</strong></li>
+      <li>B.A. in Physics</li>
+      </div>
     </div>
   </div>
-</div>
 </div>
 
 ## Research
@@ -119,27 +119,28 @@ Fermilab Associate Scientist
         </ul>
       </div>
     </div>
-</div>
+  </div>
 
-<div class="cv-year-group">
-  <div class="cv-year">2023–2024</div>
-    <div class="cv-entries">
-      <div class="cv-entry">
-        <ul>
-        <li><strong>Belle II</strong>
-        <ul>
-        <li>Affiliation: University of Bonn (Visiting Scientist).</li>
-        <li>Group leader: Florian Bernlochner.</li>
-        <li><em>Angular analyses of B → D*ℓν decays</em>
-        <ul>
-        <li>Lead analyst of the first measurement of light-lepton universality in the full suite of angular observables in exclusive B⁰ → D*ℓν decays, published in <em>Physical Review Letters</em> in October 2023.</li>
-        <li>Updated full angular analysis using more data ongoing (see Mentorship).</li>
-        </ul>
-        </li>
-        <li>Analysis Review Committee member (completed analysis with publication).</li>
-        </ul>
-        </li>
-        </ul>
+  <div class="cv-year-group">
+    <div class="cv-year">2023–2024</div>
+      <div class="cv-entries">
+        <div class="cv-entry">
+          <ul>
+          <li><strong>Belle II</strong>
+          <ul>
+          <li>Affiliation: University of Bonn (Visiting Scientist).</li>
+          <li>Group leader: Florian Bernlochner.</li>
+          <li><em>Angular analyses of B → D*ℓν decays</em>
+          <ul>
+          <li>Lead analyst of the first measurement of light-lepton universality in the full suite of angular observables in exclusive B⁰ → D*ℓν decays, published in <em>Physical Review Letters</em> in October 2023.</li>
+          <li>Updated full angular analysis using more data ongoing (see Mentorship).</li>
+          </ul>
+          </li>
+          <li>Analysis Review Committee member (completed analysis with publication).</li>
+          </ul>
+          </li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
