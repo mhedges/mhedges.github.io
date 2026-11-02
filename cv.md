@@ -59,6 +59,7 @@ Fermilab Associate Scientist
         <li>Advisor: Sven Vahsen</li>
         <li>Thesis: <strong>Performance and First Deployment of Novel 3D Nuclear Recoil Detectors</strong></li>
         </ul>
+        </li>
         </ul>
       </div>
     </div>
@@ -73,6 +74,7 @@ Fermilab Associate Scientist
       <ul>
       <li>B.A. in Physics</li>
       </ul>
+      </li>
       </ul>
       </div>
     </div>
