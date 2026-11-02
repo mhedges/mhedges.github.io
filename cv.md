@@ -20,14 +20,15 @@ Fermilab Associate Scientist
     <div class="cv-year">Current</div>
     <div class="cv-entries">
       <div class="cv-entry">
-       <ul>
-       <li><strong>Fermi National Accelerator Laboratory</strong>
-       <ul>
-       <li><em>Associate Scientist</em></li>
-       <li>Accelerator Directorate / Target Systems Division / Target Physics Group (AD/TSD/TPHYS)</li>
-       </ul>
-       </ul>
-       </div>
+        <ul>
+        <li><strong>Fermi National Accelerator Laboratory</strong>
+        <ul>
+        <li><em>Associate Scientist</em></li>
+        <li>Accelerator Directorate / Target Systems Division / Target Physics Group (AD/TSD/TPHYS)</li>
+        </ul>
+        </li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -41,6 +42,7 @@ Fermilab Associate Scientist
         <li><em>Postdoctoral Research Associate</em></li>
         <li>Supervisors: John Finley, Matthew Jones, David Koltick</li>
         </ul>
+        </li>
         </ul>
       </div>
     </div>
