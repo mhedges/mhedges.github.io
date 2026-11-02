@@ -16,142 +16,132 @@ Fermilab Associate Scientist
 ## Education and Employment
 
 <div class="cv-timeline">
-
-<div class="cv-year-group">
-  <div class="cv-year">Current</div>
-  <div class="cv-entries">
-
-  <div class="cv-entry">
-
-  Fermi National Accelerator Laboratory
-
-  - Associate Scientist
-  - Accelerator Directorate / Target Systems Division / Target Physics Group (AD/TSD/TPHYS)
-
-  </div>
+  <div class="cv-year-group">
+    <div class="cv-year">Current</div>
+    <div class="cv-entries">
+      <div class="cv-entry">
+       <ul>
+       <li><strong>Fermi National Accelerator Laboratory</strong>
+       <ul>
+       <li><em>Associate Scientist</em></li>
+       <li>Accelerator Directorate / Target Systems Division / Target Physics Group (AD/TSD/TPHYS)</li>
+       </ul>
+    </div>
   </div>
 </div>
 
 <div class="cv-year-group">
   <div class="cv-year">2018–2023</div>
   <div class="cv-entries">
-
-  <div class="cv-entry">
-
-  Purdue University
-
-  - Postdoctoral Research Associate
-  - Supervisors: John Finley, Matthew Jones, David Koltick
-
-  </div>
+    <div class="cv-entry">
+      <ul>
+      <li><strong>Purdue University</strong>
+      <ul>
+      <li><em>Postdoctoral Research Associate</em></li>
+      <li>Supervisors: John Finley, Matthew Jones, David Koltick</li>
+      </ul>
+    </div>
   </div>
 </div>
 
 <div class="cv-year-group">
   <div class="cv-year">2018</div>
   <div class="cv-entries">
-
-  <div class="cv-entry">
-
-  University of Hawaiʻi at Mānoa
-
-  - Ph.D. in Physics
-  - Advisor: Sven Vahsen
-  - Thesis: <strong>Performance and First Deployment of Novel 3D Nuclear Recoil Detectors</strong>
-
-  </div>
+    <div class="cv-entry">
+      <ul>
+      <li></strong>University of Hawaiʻi at Mānoa</li>
+      <ul>
+      <li><em>Ph.D. in Physics</em></li>
+      <li>Advisor: Sven Vahsen</li>
+      <li>Thesis: <strong>Performance and First Deployment of Novel 3D Nuclear Recoil Detectors</strong></li>
+      </ul>
+    </div>
   </div>
 </div>
 
 <div class="cv-year-group">
   <div class="cv-year">2011</div>
   <div class="cv-entries">
-
-  <div class="cv-entry">
-
-  Boston University
-
-  - B.A. in Physics
-
+    <div class="cv-entry">
+    <ul>
+    <li></strong>Boston University</strong></li>
+    <li>B.A. in Physics</li>
+    </div>
   </div>
-  </div>
-</div>
 </div>
 
 ## Research
 
 <div class="cv-timeline">
+  <div class="cv-year-group">
+    <div class="cv-year">Current</div>
+    <div class="cv-entries">
+      <div class="cv-entry">
+        <ul>
+        <li><strong>Mu2e</strong>
+        <ul>
+        <li><em>Target Station</em>
+        <ul>
+        <li>Leading Mu2e Production Target development team.</li>
+        <li>Developing target health and beam diagnostics instrumentation with university partners.</li>
+        <li>Facilitating completion of Mu2e Target Station Project work and transition to Operations.</li>
+        </ul>
+        </li>
+        <li><em>Collaboration Service</em>
+        <ul>
+        <li>Speakers' Committee member (2022–present).</li>
+        <li>Analysis Review Committee member (ongoing analysis).</li>
+        </ul>
+        </li>
+        </ul>
+        </li>
+        <li><strong>Future Facility for Dark Matter Discovery (F2D2)</strong>
+        <ul>
+        <li>Participation on task force exploring feasibility of a future beam-dump-based dark matter facility at Fermilab utilizing Linac2.</li>
+        </ul>
+        </li>
+        <li><strong>Instrumentation</strong>
+        <ul>
+        <li><em>mACE @ Mu2e</em>
+        <ul>
+        <li>FNAL lead in development of instrumentation based on modified Askaryan Calorimetry Experiment (mACE, U. Hawaiʻi) for target health monitoring and beam diagnostics at Mu2e.</li>
+        </ul>
+        </li>
+        <li><em>Quantum-dot-based scintillators for charged-particle detection</em>
+        <ul>
+        <li>Co-PI of submitted proposal with U. Albany (DOE FY25 Continuing Solicitation).</li>
+        <li>Co-maintainer of Geant4-based simulation of novel detector system.</li>
+        </ul>
+        </li>
+        </ul>
+        </li>
+        </ul>
+      </div>
+    </div>
+</div>
 
 <div class="cv-year-group">
-<div class="cv-year">Current</div>
-<div class="cv-entries">
-<div class="cv-entry">
-<ul>
-<li><strong>Mu2e</strong>
-<ul>
-<li><em>Target Station</em>
-<ul>
-<li>Leading Mu2e Production Target development team.</li>
-<li>Developing target health and beam diagnostics instrumentation with university partners.</li>
-<li>Facilitating completion of Mu2e Target Station Project work and transition to Operations.</li>
-</ul>
-</li>
-<li><em>Collaboration Service</em>
-<ul>
-<li>Speakers' Committee member (2022–present).</li>
-<li>Analysis Review Committee member (ongoing analysis).</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>Future Facility for Dark Matter Discovery (F2D2)</strong>
-<ul>
-<li>Participation on task force exploring feasibility of a future beam-dump-based dark matter facility at Fermilab utilizing Linac2.</li>
-</ul>
-</li>
-<li><strong>Instrumentation</strong>
-<ul>
-<li><em>mACE @ Mu2e</em>
-<ul>
-<li>FNAL lead in development of instrumentation based on modified Askaryan Calorimetry Experiment (mACE, U. Hawaiʻi) for target health monitoring and beam diagnostics at Mu2e.</li>
-</ul>
-</li>
-<li><em>Quantum-dot-based scintillators for charged-particle detection</em>
-<ul>
-<li>Co-PI of submitted proposal with U. Albany (DOE FY25 Continuing Solicitation).</li>
-<li>Co-maintainer of Geant4-based simulation of novel detector system.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</div>
-
-<div class="cv-year-group">
-<div class="cv-year">2023–2024</div>
-<div class="cv-entries">
-<div class="cv-entry">
-<ul>
-<li><strong>Belle II</strong>
-<ul>
-<li>Affiliation: University of Bonn (Visiting Scientist).</li>
-<li>Group leader: Florian Bernlochner.</li>
-<li><em>Angular analyses of B → D*ℓν decays</em>
-<ul>
-<li>Lead analyst of the first measurement of light-lepton universality in the full suite of angular observables in exclusive B⁰ → D*ℓν decays, published in <em>Physical Review Letters</em> in October 2023.</li>
-<li>Updated full angular analysis using more data ongoing (see Mentorship).</li>
-</ul>
-</li>
-<li>Analysis Review Committee member (completed analysis with publication).</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</div>
-
+  <div class="cv-year">2023–2024</div>
+    <div class="cv-entries">
+      <div class="cv-entry">
+        <ul>
+        <li><strong>Belle II</strong>
+        <ul>
+        <li>Affiliation: University of Bonn (Visiting Scientist).</li>
+        <li>Group leader: Florian Bernlochner.</li>
+        <li><em>Angular analyses of B → D*ℓν decays</em>
+        <ul>
+        <li>Lead analyst of the first measurement of light-lepton universality in the full suite of angular observables in exclusive B⁰ → D*ℓν decays, published in <em>Physical Review Letters</em> in October 2023.</li>
+        <li>Updated full angular analysis using more data ongoing (see Mentorship).</li>
+        </ul>
+        </li>
+        <li>Analysis Review Committee member (completed analysis with publication).</li>
+        </ul>
+        </li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## Mentorship
