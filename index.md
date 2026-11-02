@@ -136,7 +136,7 @@ description: High-power targetry, beam instrumentation, and precision particle p
             contributing to the broader effort to develop the target concepts
             and capabilities a future muon collider would require.
           </p>
-          <a class="text-link" href="muoncollider.us/contact">USMCC organization ↗</a>
+          <a class="text-link" href="https://www.muoncollider.us/contact">USMCC organization ↗</a>
         </div>
       </article>
     </div>
@@ -168,7 +168,7 @@ description: High-power targetry, beam instrumentation, and precision particle p
       <a href="https://inspirehep.net/authors/1259719"><span>Publications on INSPIRE-HEP</span><span>↗</span></a>
       <a href="https://orcid.org/0000-0001-6504-1872"><span>ORCID</span><span>↗</span></a>
       <a href="https://mu2e.fnal.gov/"><span>Mu2e Experiment</span><span>↗</span></a>
-      <a href="https://muoncollider.us"><span>US Muon Collider Collaboration</span><span>↗</span></a>
+      <a href="https://www.muoncollider.us"><span>US Muon Collider Collaboration</span><span>↗</span></a>
       <a href="mailto:mhedges@fnal.gov"><span>Contact</span><span>↗</span></a>
     </div>
   </div>
